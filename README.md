@@ -1,9 +1,12 @@
 ### Hi there 👋
+#### I'm charles chen
 
 <!--
 **charles-chenzz/charles-chenzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- I'm charles chen
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Developer
+- 🌱 I’m currently trying to contribute code in Kubernetes or cloud native related project
+- 🤔 time is limit, just code
+- 💬 Ask me about Go, Kubernetes
+- 📫 How to reach me: 782248348@qq.com
+- ⚡ Fun fact: if err != nil
